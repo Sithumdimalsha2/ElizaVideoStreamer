@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/Updates_of_ElizaBot",
-    "repository": "https://github.com/PereraSehath/Eliza-Annie-Video-Streamer",
+    "repository": "https://github.com/Sithumdimalsha2/Eliza-Annie-Video-Streamer",
     "success_url": "https://t.me/AnnieAssistantHelper",
     "env": {
         "API_ID": {
